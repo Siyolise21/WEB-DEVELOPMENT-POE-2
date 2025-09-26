@@ -31,6 +31,28 @@ more visuals instead of text to catch the users attention. I would like to also 
 colour palettes and layout choices. 
 
 
+#### Timeline and Milestones
+
+```mermaid
+## Timeline and Milestones
+
+```mermaid
+flowchart TD
+    A[Week 1: Kick-off & Requirements Day 5] --> B[Week 2: Domain & Hosting Day 12]
+    B --> C[Week 3: Mockups & Wireframes Day 19]
+    C --> D[Week 4: Feedback & Revisions Day 26]
+    D --> E[Week 5-6: Development Phase Day 40]
+    E --> F[Week 7-8: Content & Testing Day 47]
+    F --> G[Week 9: Client Review Day 54]
+    G --> H[Week 10: Prelaunch Prep Day 61]
+    H --> I[Week 11: Website Launch Day 75]
+    I --> J[Week 12: Post-launch Support Day 82]
+    J --> K((COMPLETE))
+
+
+
+
+
 
 
 
