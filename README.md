@@ -76,6 +76,17 @@ flowchart TD
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
+## Website Sitemap
+
+```mermaid
+graph TD
+    A[Homepage (index.html)]
+    A --> B[About Us (about.html)]
+    A --> C[Services (services.html)]
+    A --> D[Enquiry (enquiry.html)]
+    A --> E[Contact (contact.html)]
+
+
 
 
 
