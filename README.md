@@ -30,6 +30,7 @@ the website easier to use none of that complicated/amateur functions. I would li
 more visuals instead of text to catch the users attention. I would like to also use more fonts, 
 colour palettes and layout choices. 
 
+
 #### REFERENCES:
 ## WEBSITES/ONLINE SOURCES:
 Masinyusane. (n.d.) Masinyusane Development Organisation. [online] Available at: http://www.masinyusane.org
@@ -76,12 +77,17 @@ flowchart TD
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
+
 graph TD
     A[Homepage (index.html)]
     A --> B[About Us (about.html)]
     A --> C[Services (services.html)]
     A --> D[Enquiry (enquiry.html)]
     A --> E[Contact (contact.html)]
+
+
+
+
 
 
 
