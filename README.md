@@ -1,5 +1,13 @@
 # WEB-DEVELOPMENT-POE-2
 
+#### STUDENT INFORMATION:
+
+### SIYOLISE VOKWANA
+### ST10478691
+### ROSEBANK COLLEGE CAPE TOWN
+
+
+
 #### REFERENCES:
 ## WEBSITES/ONLINE SOURCES:
 Masinyusane. (n.d.) Masinyusane Development Organisation. [online] Available at: http://www.masinyusane.org
