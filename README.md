@@ -57,7 +57,7 @@ Masinyusane. (n.d.) Photo of Jim Mckeown and Fiks Mahola. [online image] Availab
 
 Masinyusane. (n.d.) Organisation logo. [online image] Available at: https://www.masinyusane.org
  [Accessed 26 August 2025].
-
+ 
 ## Timeline and Milestones
 
 ```mermaid
@@ -76,17 +76,12 @@ flowchart TD
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
-## Website Sitemap
-
-```mermaid
 graph TD
     A[Homepage (index.html)]
     A --> B[About Us (about.html)]
     A --> C[Services (services.html)]
     A --> D[Enquiry (enquiry.html)]
     A --> E[Contact (contact.html)]
-
-
 
 
 
