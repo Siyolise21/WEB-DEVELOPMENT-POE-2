@@ -6,6 +6,19 @@
 ### ST10478691
 ### ROSEBANK COLLEGE CAPE TOWN
 
+#### PROJECT OVERVIEW:
+Is a NPO pursuing the mission to improve children’s literacy 
+and combating youth unemployment led by Zama Zulu. Using 
+data-driven, scalable programmes and creating meaningful 
+local jobs for previously unemployed youth especially women 
+as literacy coaches in early learning and primary school 
+settings. The organisation was founded in 2008 by Jim 
+McKeown and Fiks Mahola, they met in New Brighton in 
+Gqeberha and bonded over shared passion for uplifting 
+communities.   
+
+
+
 
 
 #### REFERENCES:
