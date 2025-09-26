@@ -30,6 +30,13 @@ the website easier to use none of that complicated/amateur functions. I would li
 more visuals instead of text to catch the users attention. I would like to also use more fonts, 
 colour palettes and layout choices. 
 
+## CHANGE LOG:
+-Updated my readme.md file 
+-pushed the css folder to my WEB development POE 2 Depository
+-Created the CSS FILE
+-inserted the link code so my html files can be linked with the CSS FILE 
+-On the 26 of september 2025 i implemented many changes to the CSS file such as changing code named colours to named colours also edited the code to have a pseudo class and also if other devices are used to navigate to this website it meets the requirements of the device such as device size, image resolutions and font size.Changed the colours to set a more vibrant user friendly field
+
 
 #### REFERENCES:
 ## WEBSITES/ONLINE SOURCES:
