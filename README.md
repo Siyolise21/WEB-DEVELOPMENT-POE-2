@@ -30,24 +30,23 @@ the website easier to use none of that complicated/amateur functions. I would li
 more visuals instead of text to catch the users attention. I would like to also use more fonts, 
 colour palettes and layout choices. 
 
-
-#### Timeline and Milestones
-
-```mermaid
 ## Timeline and Milestones
 
 ```mermaid
 flowchart TD
-    A[Week 1: Kick-off & Requirements Day 5] --> B[Week 2: Domain & Hosting Day 12]
-    B --> C[Week 3: Mockups & Wireframes Day 19]
-    C --> D[Week 4: Feedback & Revisions Day 26]
-    D --> E[Week 5-6: Development Phase Day 40]
-    E --> F[Week 7-8: Content & Testing Day 47]
-    F --> G[Week 9: Client Review Day 54]
-    G --> H[Week 10: Prelaunch Prep Day 61]
-    H --> I[Week 11: Website Launch Day 75]
-    I --> J[Week 12: Post-launch Support Day 82]
-    J --> K((COMPLETE))
+    A["WEEK 1: Project kick-off and gathering requirements (Day 5)"]
+    B["WEEK 2: Domain and Hosting setup (Day 12)"]
+    C["WEEK 3: Design mock-ups and wireframes (Day 19)"]
+    D["WEEK 4: Design feedback and revisions (Day 26)"]
+    E["WEEK 5-6: Development phase (Day 40)"]
+    F["WEEK 7-8: Content integration, visual enhancements & Testing (Day 47)"]
+    G["WEEK 9: Client review and final adjustments (Day 54)"]
+    H["WEEK 10: Prelaunch preparations (Day 61)"]
+    I["WEEK 11: Website launch (Day 75)"]
+    J["WEEK 12: Post Launch support and training (Day 82)"]
+    K["✅ COMPLETE"]
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
 
 
@@ -59,30 +58,7 @@ flowchart TD
 
 
 
-#### REFERENCES:
-## WEBSITES/ONLINE SOURCES:
-Masinyusane. (n.d.) Masinyusane Development Organisation. [online] Available at: http://www.masinyusane.org
- [Accessed 26 August 2025].
 
-HeraldLIVE. (n.d.) [Homepage]. [online] Available at: http://www.heraldlive.co.za
- [Accessed 26 August 2025].
 
-Algoa FM. (n.d.) Algoa Cares: Masinyusane Development Organisation. [online] Available at: http://www.algoafm.co.za/algoa-cares/masinyusane-development-organisation
- [Accessed 26 August 2025].
 
-Hosting24. (n.d.) Web Hosting Packages. [online] Available at: http://www.hosting24.co.za/web-hosting-packages
- [Accessed 26 August 2025].
 
-mCloud9. (n.d.) Breaking Down Website Hosting Costs. [online] Available at: http://www.mcloud9.co.za/blog/breaking-down-website-hosting-costs
- [Accessed 26 August 2025].
-
-Reddit. (2022) South Africa Thread Discussion. [online] Available at: https://www.reddit.com/r/southafrica/comments/vnas9z
- [Accessed 26 August 2025].
-
- #### IMAGES:
-
-Masinyusane. (n.d.) Photo of Jim Mckeown and Fiks Mahola. [online image] Available at: https://www.masinyusane.org
- [Accessed 26 August 2025].
-
-Masinyusane. (n.d.) Organisation logo. [online image] Available at: https://www.masinyusane.org
- [Accessed 26 August 2025].
