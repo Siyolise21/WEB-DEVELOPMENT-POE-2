@@ -17,6 +17,14 @@ McKeown and Fiks Mahola, they met in New Brighton in
 Gqeberha and bonded over shared passion for uplifting 
 communities.   
 
+#### PART 1 :
+Part 1 is simply a proposal explaining the purpose of my website,more information about what is required to fix the existing website organisation that i have choosen,website goals and objectives,design and user experience etc 
+
+#### PART 2 :
+Part 2 consists of CSS Styling to add more colours and styles to the website,we are slowly moving away from the website being basic as we are implementing various user interactions 
+
+#### PART 3 : 
+Part 3 coming soon
 
 #### WEBSITE GOALS AND OBJECTIVES:
 I would like for the website to attract potential investors to this organisation, more people to 
