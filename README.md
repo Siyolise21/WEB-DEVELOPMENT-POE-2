@@ -77,6 +77,15 @@ flowchart TD
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
+```
+
+### SITEMAP :
+
+
+```mermaid 
+
+
+
 
 graph TD
     A[Homepage (index.html)]
