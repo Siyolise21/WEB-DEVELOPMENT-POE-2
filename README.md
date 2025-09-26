@@ -18,6 +18,22 @@ Gqeberha and bonded over shared passion for uplifting
 communities.   
 
 
+#### WEBSITE GOALS AND OBJECTIVES:
+I would like for the website to attract potential investors to this organisation, more people to 
+see the cause and be an easy way to provide information to users/people of interest. More 
+users interacting with the website means more people are aware of the cause, maybe some 
+might be interested to assist to better the community and the children.  
+
+#### KEY FUNCTIONS AND FUNCTIONALITY:
+I would improve the websites navigation such as add search functions and site maps, make 
+the website easier to use none of that complicated/amateur functions. I would like to show 
+more visuals instead of text to catch the users attention. I would like to also use more fonts, 
+colour palettes and layout choices. 
+
+
+
+
+
 
 
 
